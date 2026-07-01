@@ -90,7 +90,7 @@ export const PERFORMERS: Performer[] = [
     id: "hesixuan",
     name: "何思宣",
     title: "特邀主持 / 上海滑稽剧团演员",
-    avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=300&auto=format&fit=crop",
+    avatar: "https://photos.1804078.xyz/42hu/hsx.png",
     bio: "上海滑稽剧团演员。曾参演滑稽喜剧《乌鸦与麻雀》、《弄堂里向》、《宝兴里》等；作为特邀嘉宾参与了电视台春节栏目：《百家开心开心过大年》、长三角方言大赛的表现；并参与了多部电影、电视剧的拍摄。"
   }
 ];
