@@ -62,28 +62,28 @@ export const PERFORMERS: Performer[] = [
     id: "yuanjie",
     name: "苑杰",
     title: "二级演奏员",
-    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=300&auto=format&fit=crop",
+    avatar: "https://photos.1804078.xyz/42hu/yj.png",
     bio: "二级演奏员。1988年考入上海音乐学院民乐系，师从著名二胡教育家、演奏家项祖英教授，并随著名指挥家夏飞云教授学习指挥副科。1992年毕业进入上海民族乐团工作至今。中国民族管弦乐学会会员、兼任理事。曾担任上海民族乐团乐队首席。"
   },
   {
     id: "xuzhenghong",
     name: "徐正宏",
     title: "一级演奏员",
-    avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=300&auto=format&fit=crop",
+    avatar: "https://photos.1804078.xyz/42hu/xzh.png",
     bio: "一级演奏员。1978年进入上海音乐学院附中。系上海音乐家协会会员、上海音协二胡专业委员会常务理事。曾任上海滑稽剧团乐队主任、上海文广民族乐团管理部主任、现任飞云民族乐团副团长。先后师从李作明、唐春贵、林心铭老师。"
   },
   {
     id: "dengweimin",
     name: "邓伟民",
     title: "一级演奏员",
-    avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=300&auto=format&fit=crop",
+    avatar: "https://photos.1804078.xyz/42hu/dwm.png",
     bio: "一级演奏员。现为中国民族管弦乐学会常务理事、上海音乐家协会会员。曾担任上海民族乐团乐队首席。先后师从于曹天立、李作明老师及中国二胡大师萧白镛先生学习二胡演奏。"
   },
   {
     id: "wannianfang",
     name: "万年芳",
     title: "一级演奏员、音乐制作人",
-    avatar: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=300&auto=format&fit=crop",
+    avatar: "https://photos.1804078.xyz/42hu/wnf.png",
     bio: "一级演奏员、音乐制作人。中国民族管弦乐学会理事、上海计算机音乐协会理事、上海音乐家协会会员。曾任上海民族乐团弦乐声部长。在乐团期间先后师从万志强、邹德荣老师。"
   },
   {
