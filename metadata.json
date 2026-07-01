@@ -1,0 +1,6 @@
+{
+  "name": "四君胡琴演奏会",
+  "description": "弓吟弦歌五十春——金秋雅集田子坊，四君胡琴演奏会官方内容网站。包含演职人员介绍、精彩节目单及田子坊文化艺术中心导览。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
