@@ -62,35 +62,35 @@ export const PERFORMERS: Performer[] = [
     id: "yuanjie",
     name: "苑杰",
     title: "二级演奏员",
-    avatar: "https://photos.1804078.xyz/42hu/yj.png",
+    avatar: "https://photos.1804078.xyz/42hu/yj.webp",
     bio: "二级演奏员。1988年考入上海音乐学院民乐系，师从著名二胡教育家、演奏家项祖英教授，并随著名指挥家夏飞云教授学习指挥副科。1992年毕业进入上海民族乐团工作至今。中国民族管弦乐学会会员、兼任理事。曾担任上海民族乐团乐队首席。"
   },
   {
     id: "xuzhenghong",
     name: "徐正宏",
     title: "一级演奏员",
-    avatar: "https://photos.1804078.xyz/42hu/xzh.png",
+    avatar: "https://photos.1804078.xyz/42hu/xzh.webp",
     bio: "一级演奏员。1978年进入上海音乐学院附中。系上海音乐家协会会员、上海音协二胡专业委员会常务理事。曾任上海滑稽剧团乐队主任、上海文广民族乐团管理部主任、现任飞云民族乐团副团长。先后师从李作明、唐春贵、林心铭老师。"
   },
   {
     id: "dengweimin",
     name: "邓伟民",
     title: "一级演奏员",
-    avatar: "https://photos.1804078.xyz/42hu/dwm.png",
+    avatar: "https://photos.1804078.xyz/42hu/dwm.webp",
     bio: "一级演奏员。现为中国民族管弦乐学会常务理事、上海音乐家协会会员。曾担任上海民族乐团乐队首席。先后师从于曹天立、李作明老师及中国二胡大师萧白镛先生学习二胡演奏。"
   },
   {
     id: "wannianfang",
     name: "万年芳",
     title: "一级演奏员、音乐制作人",
-    avatar: "https://photos.1804078.xyz/42hu/wnf.png",
+    avatar: "https://photos.1804078.xyz/42hu/wnf.webp",
     bio: "一级演奏员、音乐制作人。中国民族管弦乐学会理事、上海计算机音乐协会理事、上海音乐家协会会员。曾任上海民族乐团弦乐声部长。在乐团期间先后师从万志强、邹德荣老师。"
   },
   {
     id: "hesixuan",
     name: "何思宣",
     title: "特邀主持 / 上海滑稽剧团演员",
-    avatar: "https://photos.1804078.xyz/42hu/hsx.png",
+    avatar: "https://photos.1804078.xyz/42hu/hsx.webp",
     bio: "上海滑稽剧团演员。曾参演滑稽喜剧《乌鸦与麻雀》、《弄堂里向》、《宝兴里》等；作为特邀嘉宾参与了电视台春节栏目：《百家开心开心过大年》、长三角方言大赛的表现；并参与了多部电影、电视剧的拍摄。"
   }
 ];

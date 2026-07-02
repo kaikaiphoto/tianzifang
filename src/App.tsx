@@ -122,6 +122,25 @@ export default function App() {
         
         <div className="max-w-4xl mx-auto relative z-10 flex flex-col items-center">
           
+          {/* Majestic Concert Poster / Cover Image */}
+          <motion.div
+            initial={{ opacity: 0, scale: 0.95 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ delay: 0.2, duration: 0.6 }}
+            className="mb-8 max-w-xl w-full px-2"
+          >
+            <div className="relative group overflow-hidden rounded-lg shadow-[0_20px_50px_rgba(0,0,0,0.6)] border-2 border-[#E8C87C]/50 p-1 bg-[#4D0D0D]/60 backdrop-blur-md">
+              {/* Inner delicate gold frame */}
+              <div className="absolute inset-1 border border-[#E8C87C]/20 rounded-md pointer-events-none" />
+              <img
+                src="https://photos.1804078.xyz/42hu/shz.webp"
+                alt="四君胡琴演奏会"
+                className="w-full h-auto object-cover rounded shadow-md transition-transform duration-700 hover:scale-[1.02]"
+                referrerPolicy="no-referrer"
+              />
+            </div>
+          </motion.div>
+
           {/* Sijun Seal Logo Accent */}
           <motion.div 
             initial={{ scale: 0, rotate: -20 }}
